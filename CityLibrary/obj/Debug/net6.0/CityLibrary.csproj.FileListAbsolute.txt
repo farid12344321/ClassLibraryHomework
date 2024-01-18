@@ -1,0 +1,12 @@
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\bin\Debug\net6.0\CityLibrary.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\bin\Debug\net6.0\CityLibrary.dll
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\bin\Debug\net6.0\CityLibrary.pdb
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.dll
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\refint\CityLibrary.dll
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\CityLibrary.pdb
+C:\Users\Farid\Desktop\homewotk\c#\homeworkLibrarayClass\CityLibrary\obj\Debug\net6.0\ref\CityLibrary.dll
